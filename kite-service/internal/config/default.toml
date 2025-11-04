@@ -18,10 +18,10 @@ max_operations = 100
 max_credits = 250
 
 [database.postgres]
-host = "127.0.0.1"
+host = "postgres.railway.internal"
 port = 5432
 user = "postgres"
-db_name = "kite"
+db_name = "railway"
 
 [database.s3]
 endpoint = "localhost:9000"
