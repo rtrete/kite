@@ -1,1 +1,8 @@
+[discord]
+client_id = "1425512866244591726"
+client_secret = "51ZE_YdgkDopqliAcEt-xAv1sUjh4W7e"
+token = "MTQyNTUxMjg2NjI0NDU5MTcyNg.GMYq8k.KBtfRxUFOv2dSN46aFZfYjt2qsrnTFuRRiLokU"
+
+[encryption]
+token_encryption_key = "jLlmRsiigZfGELoLfeZwensjwLPAnzm"
 
